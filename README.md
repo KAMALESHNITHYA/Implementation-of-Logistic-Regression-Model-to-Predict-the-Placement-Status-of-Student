@@ -64,32 +64,32 @@ classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
-## Output:
+# Output:
 
-# HEAD
+## HEAD
 ![image](https://github.com/user-attachments/assets/d5be98f1-b2dc-40e7-9576-09d310daa542)
 
-# COPY
+## COPY
 ![image](https://github.com/user-attachments/assets/5cf1d465-0c79-4beb-be61-723288a1456c)
 
-# FIT TRANSFORM
+## FIT TRANSFORM
 ![image](https://github.com/user-attachments/assets/27b50305-e380-4087-96f7-4346db5fd03f)
 
-# LOGISTIC REGRESSION 
+## LOGISTIC REGRESSION 
 ![image](https://github.com/user-attachments/assets/26cb7cd4-5c99-4ba4-b3c1-3ac4f755d7a0)
 
-# ACCURACY SCORE
+## ACCURACY SCORE
 ![image](https://github.com/user-attachments/assets/4e5ef3fb-d87d-4af4-9260-58b086512b0a)
 
-# CONFUSION MATRIX
+## CONFUSION MATRIX
 ![image](https://github.com/user-attachments/assets/d2d08a6e-c918-4161-9665-0db26c0fec06)
 
-# CLASSFICATION REPORT
+## CLASSFICATION REPORT
 ![image](https://github.com/user-attachments/assets/2b5c2137-5901-4a58-a629-eb5018b23890)
 
-# PREDICTION
+## PREDICTION
 ![image](https://github.com/user-attachments/assets/949aebd5-531e-4f59-b2c8-82db99b9f3fa)
 
 
-## Result:
+# Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
